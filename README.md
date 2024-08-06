@@ -45,6 +45,8 @@ To run the application locally, follow these steps:
 **3.** A 3D heart with a blinking animation will be present in the scene as well.
 
 
+## Demo
+**Link -** ```https://3d-text-generator.netlify.app```
 
 
 ## Technologies Used
