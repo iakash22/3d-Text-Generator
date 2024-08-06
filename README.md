@@ -46,7 +46,7 @@ To run the application locally, follow these steps:
 
 
 ## Demo
-**Link -** ```https://3d-text-generator.netlify.app```
+**Link -**  https://3d-text-generator.netlify.app
 
 
 ## Technologies Used
