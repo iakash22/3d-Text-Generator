@@ -1,7 +1,7 @@
 
 # 3D Text Generator with Three.js, GSAP
 
-![App Screenshot]('/public/3d-text-ss.png');
+<img src="/public/3d-text-ss.png" />
 
 This project is a 3D text generator built using Three.js, GSAP, React, and Vite. It allows users to input custom text through a browser prompt, which is then rendered in 3D. Additionally, it includes a 3D heart animation with a blinking effect using GSAP.
 
